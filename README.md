@@ -2,8 +2,6 @@
 
 This project is a basic shopping cart application built with React and Redux. It demonstrates how to manage cart state using Redux slices, store, and createAsyncThunk for handling asynchronous operations.
 
-Demo: https://spreadit-blog-app-frontend.vercel.app/
-
 ## Features
 
   - Add items to the cart
